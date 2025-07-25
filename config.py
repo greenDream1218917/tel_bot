@@ -8,7 +8,7 @@ BOT_TOKEN = "8160875773:AAGLDQX_FrlpeOqaUGCUXuK4BChu8-jq8-4"
 # Telegram channel username or chat ID
 CHANNEL_USERNAME = "-4863819718"
 # OpenAI API key for generating trading signals
-OPENAI_API_KEY = ""
+OPENAI_API_KEY = "your API key"
 # OpenAI API URL endpoint
 OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 # Binance API key (not currently used in requests, but available for future use)
