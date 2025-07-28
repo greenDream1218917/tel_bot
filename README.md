@@ -47,13 +47,6 @@ Start the FastAPI server using Uvicorn:
 uvicorn main:app --reload
 ```
 - Every 15 minutes, a trading signal will be generated and posted to your Telegram channel automatically.
-
-### 5. (Optional) Test the API Endpoint
-You can access the interactive API docs at:
-```
-```
-From here, you can test any available endpoints.
-
 ---
 
 ## About the Prompt Value
